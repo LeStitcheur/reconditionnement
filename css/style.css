@@ -16,11 +16,11 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #292929;
+  background: #f1f1f1;
   font-family: "ubuntu", verdana, "sans-sérif";
   -ms-overflow-style: none;
   scrollbar-width: none;
-  color: rgb(198, 202, 240);
+  color: rgb(14, 19, 68);
   z-index: 0;
 }
 
